@@ -2,9 +2,9 @@
 
 🤗 Hello, my name is Alison, I am an accountant transitioning to Data Science. I have a strong interest in Machine Learning and the potential for automating processes with artificial intelligence to improve the future.
 
-I am constantly learning, always seeking new technologies and ways to increase process efficiency.
+I am constantly learning, always looking for new technologies and ways to increase process efficiency.
 
-In my free time, I enjoy reading 📚 and practicing weightlifting 💪.
+In my free time, I enjoy reading 📚 and practicing weightlifting.
 
 
 ## 💻 Technologies / Frameworks:

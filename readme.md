@@ -4,7 +4,7 @@
 
 I am constantly learning, always looking for new technologies and ways to increase process efficiency.
 
-In my free time, I enjoy reading 📚 and practicing weightlifting.
+In my free time, I enjoy reading 📚.
 
 
 ## 💻 Technologies / Frameworks:

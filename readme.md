@@ -16,7 +16,7 @@ In my free time, I enjoy reading 📚.
 ## 🗂️ My main repositories:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlisonZa&repo=CNNpneumonia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlisonZa/CNNpneumonia)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlisonZa&repo=Sales-Dashboard&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlisonZa/Sales-Dashboard)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlisonZa&repo=langgraph-dataframe-copilot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/AlisonZa/Sales-Dashboard](https://github.com/AlisonZa/langgraph-dataframe-copilot))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlisonZa&repo=langgraph-dataframe-copilot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlisonZa/langgraph-dataframe-copilot)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlisonZa&repo=model-monitoring&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlisonZa/model-monitoring)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AlisonZa&repo=ci-cd-machine-learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlisonZa/ci-cd-machine-learning)
 
